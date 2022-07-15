@@ -55,8 +55,15 @@ Someone told me that I could do it, so here I am, on my Sophomore year as a [Sof
 <div align="center"> 
   
 <a href="https://github.com/im-somnus/c-data-structures"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=im-somnus&repo=c-data-structures&layout=compact&langs_count=8&theme=tokyonight"/></a>  <a href="https://github.com/im-somnus/Modular-Website"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=im-somnus&repo=Modular-Website&layout=compact&langs_count=8&theme=tokyonight"/></a> 
-  
+
 </div>
+
+<div align="center"> 
+
+![](https://komarev.com/ghpvc/?username=im-somnus&style=for-the-badge)
+
+</div>
+
 
 <!-- Special mentions
 
