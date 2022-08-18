@@ -2,7 +2,7 @@
 
 <p align="left">
   
-Someone told me that I could do it, so here I am, on my Sophomore year as a [Software Engineering](https://www.uma.es/grado-en-ingenieria-del-software/) student 👨‍🎓 at [UMA](https://www.uma.es). I'm also a SysAdmin 🖥️ who enjoys streaming and testing games~
+Someone told me that I could do it, so here I am, on my Junior year as a [Software Engineering](https://www.uma.es/grado-en-ingenieria-del-software/) student 👨‍🎓 at [UMA](https://www.uma.es). I'm also a SysAdmin 🖥️ who enjoys streaming and testing games~
   
 </p>
 
